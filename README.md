@@ -23,8 +23,6 @@ Install the **expo** app on your mobile device from the App Store or Google Play
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
 ## Learn More
 To learn more about React Native, take a look at the following resources:
 - [Expo](https://docs.expo.dev/get-started/installation/)
