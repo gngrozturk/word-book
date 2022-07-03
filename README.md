@@ -2,11 +2,9 @@
 
 WordBook is a mobile application that you can practice your vocabulary. You can see the words that you have added, their meanings and usage in some example sentences. The data has been manually added to the JSON file for now, but in the future it will be stored in Firebase and users will be able to enter new data from the app. **It developed by using React Native (Expo CLI)**.
 
-![ss1](https://github.com/gngrozturk/word-book/blob/master/ss/1.jpg)
-![ss2](https://github.com/gngrozturk/word-book/blob/master/ss/2.jpg)
+<p align="center"><img align="center" src="https://github.com/gngrozturk/word-book/blob/master/ss/1.jpg" width="300" />   <img align="center" src="https://github.com/gngrozturk/word-book/blob/master/ss/2.jpg" width="300" />
 
-![ss3](https://github.com/gngrozturk/word-book/blob/master/ss/3.jpg)
-![ss4](https://github.com/gngrozturk/word-book/blob/master/ss/4.jpg)
+<p align="center"><img align="center" src="https://github.com/gngrozturk/word-book/blob/master/ss/3.jpg" width="300" />   <img align="center" src="https://github.com/gngrozturk/word-book/blob/master/ss/4.jpg" width="300" /><p/>
 
 ## Getting Started
 
